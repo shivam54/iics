@@ -24,26 +24,6 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "9xPyTQxfDWCjXg6XGUdBYB",
-    "name" : "Oracle Connection_R37",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010ZI30B00000000003X"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
     "id" : "3pxViCn1UsnjXOHLjHquWE",
     "name" : "ff_shivam",
     "type" : "Connection",
@@ -103,5 +83,25 @@
       }
     },
     "path" : "/Explore/TestTF1/Folder1"
+  }, {
+    "id" : "1f5M2cfie8FbabcFvC0boI",
+    "name" : "Salesforce",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010ZI30B00000000003L"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }
